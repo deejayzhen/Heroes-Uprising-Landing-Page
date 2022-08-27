@@ -110,9 +110,9 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  transition: all 0.5s;
+  transition: all 0.8s;
   z-index: 997;
-  transition: all 0.5s;
+  transition: all 0.8s;
   top: 20px;
 }
 
@@ -302,14 +302,14 @@ h6 {
   padding: 10px 0 10px 30px;
   /* background-color: #D57F41; */
   color: #d57f41;
-  transition: 0.3s;
+  transition: 0.8s;
   font-size: 17px;
   font-weight: 700;
   width: 75%;
   text-transform: uppercase;
   font-family: var(--title-font);
   white-space: nowrap;
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 .navbar a i,
@@ -354,7 +354,7 @@ h6 {
   visibility: hidden;
   background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 .navbar .dropdown ul li {
@@ -433,7 +433,7 @@ h6 {
   cursor: pointer;
   display: none;
   line-height: 0;
-  transition: 0.5s;
+  transition: 0.8s;
 }
 
 @media (max-width: 991px) {
@@ -459,7 +459,7 @@ h6 {
   left: 0;
   bottom: 0;
   background: rgba(29, 28, 31, 0.9);
-  transition: 0.3s;
+  transition: 0.8s;
   z-index: 999;
 }
 
@@ -484,7 +484,7 @@ h6 {
   background-image: url('../img/partners/bg-1.png');
   background-size: cover;
   overflow-y: auto;
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 .navbar-mobile a,
@@ -598,7 +598,7 @@ h6 {
   display: inline-block;
   padding: 8px 28px;
   border-radius: 50px;
-  transition: 0.5s;
+  transition: 0.8s;
   margin: 10px;
   border: 2px solid #fff;
   color: #fff;
@@ -835,7 +835,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 40px 30px;
   width: 100%;
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 .why-us .icon-boxes .icon-box i {
@@ -889,7 +889,7 @@ section {
   display: inline-block;
   padding: 8px 28px;
   border-radius: 25px;
-  transition: 0.5s;
+  transition: 0.8s;
   margin-top: 10px;
   border: 2px solid #FF7E02;
   color: #fff;
@@ -930,7 +930,7 @@ section {
   display: inline-block;
   padding: 8px 28px;
   border-radius: 25px;
-  transition: 0.5s;
+  transition: 0.8s;
   margin-top: 10px;
   border: 2px solid #FF7E02;
   color: #fff;
@@ -971,7 +971,7 @@ section {
   display: inline-block;
   padding: 8px 28px;
   border-radius: 25px;
-  transition: 0.5s;
+  transition: 0.8s;
   margin-top: 10px;
   border: 2px solid #FF7E02;
   color: #fff;
@@ -1048,7 +1048,7 @@ section {
 .services .icon-box {
   text-align: center;
   padding: 40px 20px;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.8s;
   background: #fff;
 }
 
@@ -1062,7 +1062,7 @@ section {
   align-items: center;
   justify-content: center;
   margin-bottom: 20px;
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.8s;
   color: #009970;
 }
 
@@ -1078,7 +1078,7 @@ section {
 
 .services .icon-box h4 a {
   color: #36343a;
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.8s;
 }
 
 .services .icon-box p {
@@ -1135,7 +1135,7 @@ section {
   text-transform: uppercase;
   color: #444444;
   margin-bottom: 5px;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.8s ease-in-out;
   border-radius: 50px;
   font-family: "Poppins", sans-serif;
 }
@@ -1154,7 +1154,7 @@ section {
 }
 
 .heroes .heroes-wrap {
-  transition: 0.3s;
+  transition: 0.8s;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -1170,13 +1170,13 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.8s;
   z-index: 2;
   opacity: 0;
 }
 
 .heroes .heroes-wrap img {
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.8s;
 }
 
 .heroes .heroes-wrap .heroes-info {
@@ -1187,7 +1187,7 @@ section {
   right: 0;
   bottom: 0;
   z-index: 3;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.8s;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -1225,7 +1225,7 @@ section {
   margin: 0 5px 0 0;
   font-size: 28px;
   display: inline-block;
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 .heroes .heroes-wrap .heroes-links a:hover {
@@ -1434,7 +1434,7 @@ section {
 }
 
 .team .member .pic img {
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.1s;
 }
 
 .team .member:hover img {
@@ -1486,7 +1486,7 @@ section {
 }
 
 .team .member .social a {
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.8s;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1531,7 +1531,7 @@ section {
   justify-content: center;
   align-items: center;
   border-radius: 50px;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.8s ease-in-out;
 }
 
 .contact .info h4 {
@@ -1778,7 +1778,7 @@ section {
 
 #footer .footer-top .footer-links ul a {
   color: #777777;
-  transition: 0.3s;
+  transition: 0.8s;
   display: inline-block;
   line-height: 1;
 }
@@ -1827,7 +1827,7 @@ section {
   padding: 0 20px;
   background: #009970;
   color: #fff;
-  transition: 0.3s;
+  transition: 0.8s;
   border-radius: 50px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
@@ -1854,7 +1854,7 @@ section {
   text-align: center;
   width: 36px;
   height: 36px;
-  transition: 0.3s;
+  transition: 0.8s;
 }
 
 #footer .social-links a:hover {
