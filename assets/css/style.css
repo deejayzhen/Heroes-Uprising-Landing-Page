@@ -190,6 +190,12 @@ h6 {
 
 
 @media (max-width: 992px) {
+  /* #row-tokenomics {
+    margin-top: 20%;
+  } */
+  .main-timeline {
+    margin-top: 95px;
+  }
 
   .section_title{
     width: 280px;
@@ -197,7 +203,7 @@ h6 {
     float: right;
   }
   .tokeno-logo {
-    margin-top: 30%;
+    margin-top: 20%;
     padding: 90px;
     height: 50%;
     width: 50%;
@@ -218,6 +224,7 @@ h6 {
   .tokeno-table {
     margin-top: -50px;
     font-size: 100%;
+    margin-bottom: 250px !important;
     /* padding: 5%; */
     
   }
